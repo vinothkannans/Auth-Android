@@ -20,5 +20,7 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.google.android.gms:play-services-auth:8.4.0'
+    compile 'com.android.support:design:23.3.0'
     compile project(':util')
 }

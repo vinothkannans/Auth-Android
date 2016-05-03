@@ -1,11 +1,11 @@
-package com.vinkas.auth.service;
+package vinkas.auth.service;
 
 import android.content.Intent;
 import android.os.IBinder;
 import android.support.annotation.Nullable;
 import android.util.Log;
 
-import com.vinkas.auth.Authenticator;
+import vinkas.auth.Authenticator;
 
 /**
  * Created by Vinoth on 28-12-15.

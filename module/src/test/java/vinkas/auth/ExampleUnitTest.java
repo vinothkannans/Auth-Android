@@ -1,4 +1,4 @@
-package com.vinkas.auth;
+package vinkas.auth;
 
 import org.junit.Test;
 
