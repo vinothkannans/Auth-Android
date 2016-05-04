@@ -41,8 +41,7 @@ public class ConnectActivity extends Activity {
     }
 
     protected void signIn(View view) {
-        /*Intent i = new Intent(this, UsernameActivity.class);
-        startActivityForResult(i, SIGN_IN);*/
+
     }
 
 }

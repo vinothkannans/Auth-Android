@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">Auth</string>
-    <string name="choose_username">Choose your username</string>
-    <string name="username_note">Note : You can\'t change your username later. So, please choose wisely.</string>
-    <string name="username_chars">0123456789qwertzuiopasdfghjklyxcvbnmQWERTZUIOPASDFGHJKLYXCVBNM.</string>
 </resources>
